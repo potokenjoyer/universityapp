@@ -6,7 +6,6 @@ import WelcomeForm from './components/WelcomeForm.vue'
 <WelcomeForm />
 </template>
 
-
 <style scoped>
 
 </style>
