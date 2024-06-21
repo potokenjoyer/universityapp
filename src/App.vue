@@ -17,9 +17,6 @@
         <button class="btn-authorize">
           <span>Войти</span>
         </button>
-        <button class="btn-authorize">
-          <span>Войти</span>
-        </button>
       </form>
     </div>     
   </div>    
