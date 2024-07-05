@@ -1,4 +1,5 @@
 <template>
+
  <div class="main">
     <div class="input-form">
       <div class="logoname">
@@ -17,3 +18,7 @@
     </div>     
   </div> 
 </template>
+
+<style scoped>
+
+</style>

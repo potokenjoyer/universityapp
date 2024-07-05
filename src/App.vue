@@ -4,7 +4,6 @@ import { RouterView } from 'vue-router';
 
 <template>
 <router-view></router-view>
-<h1>privet</h1>
 </template>
 
 

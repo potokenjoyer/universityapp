@@ -4,12 +4,24 @@
 
 
 <template>
-<h1>Router работает!</h1>
+<div class="nav-bar">
+    <div class="nav-left">
+
+    </div>
+</div>
 </template>
 
 
 <style scoped>
-h1 {
-    color: black;
+.nav-bar {
+display: flex;
+}
+.nav-left {
+    text-align: left;
+    position: relative; 
+    background-color: #372579;
+    width: 380px;
+    height: auto;
+
 }
 </style>
