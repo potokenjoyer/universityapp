@@ -1,9 +1,10 @@
-<script setup>
-import WelcomeForm from './components/WelcomeForm.vue'
+<script>
+import { RouterView } from 'vue-router';
 </script>
 
 <template>
-<WelcomeForm />
+<router-view></router-view>
+<h1>privet</h1>
 </template>
 
 
