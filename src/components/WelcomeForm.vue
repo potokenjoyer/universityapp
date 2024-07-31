@@ -11,7 +11,7 @@
       <form>
         <input placeholder="Логин"/>
         <input placeholder="Пароль"/>
-        <button class="btn-authorize">
+        <button class="btn-authorize" @click="">
           <span>Войти</span>
         </button>
       </form>
@@ -61,7 +61,6 @@ input {
   font-size: 18px;
   color: #00000043;
   padding-left: 0px;
-
 }
 
 span {
@@ -85,3 +84,7 @@ a {
   margin: 0 auto;
 }
 </style>
+
+<script>
+
+</script>
